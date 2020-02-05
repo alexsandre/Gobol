@@ -1,3 +1,3 @@
 # Gobol
 
-Projeto de um bolão em Go lang para fins de estudo da linguaguem. 
+Project of a simple bet site in golang
